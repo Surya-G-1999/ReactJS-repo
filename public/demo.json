@@ -1,0 +1,19 @@
+[
+    {
+    "name":"surya",
+    "course":"web development",
+    "duration":"3 month"
+},
+{"name":"vijay",
+"course":"full stack development",
+"duration":"1 month"
+},
+{"name":"mounish",
+"course":"devops",
+"duration":"2 month"
+},
+{"name":"nandha",
+"course":"web development",
+"duration":"4 month"
+}
+]

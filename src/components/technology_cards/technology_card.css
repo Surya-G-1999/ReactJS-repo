@@ -1,0 +1,26 @@
+.techimage{
+    width: 40%;
+    height:25%;
+    margin-left: 60%;
+
+}
+#data{   
+    border-top: 10px solid red;
+    background-color: rgb(211, 219, 219);
+    border-radius: 20px;
+}
+#iot{   
+    border-top: 10px solid rgb(48, 124, 223);
+    background-color: rgb(211, 219, 219);
+    border-radius: 20px;
+}
+#vr{   
+    border-top: 10px solid rgb(28, 180, 168);
+    background-color: rgb(211, 219, 219);
+    border-radius: 20px;
+}
+#ml{   
+    border-top: 10px solid rgb(198, 201, 23);
+    background-color: rgb(211, 219, 219);
+    border-radius: 20px;
+}

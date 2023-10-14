@@ -1,0 +1,21 @@
+.container{
+           background-color: blueviolet;
+           height: 40%;
+}
+li{
+    list-style-type: none;
+}
+.jsonimg{
+    width: 50%;
+}
+.jsonborder{
+    border: none;
+}
+/* .NAV > li{
+    transition: ease-in-out 2s;
+} */
+.NAV > li:hover{
+      color: blueviolet;
+      border-bottom: 2px solid green;
+    
+}

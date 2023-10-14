@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap');
+#PortTEXT{
+    font-family: 'Roboto', sans-serif;
+    font-size: large;
+    font-weight: bold;
+    color: aliceblue;
+}
+#PortTEXT:hover{
+    background-color: rgb(52, 24, 78);
+    color: rgb(114, 168, 218);
+    border-bottom: 5px solid rgb(227, 225, 230);
+    border-radius: 5px;
+}
+#portfoliohome{
+    background-color: black;
+    /* height: 100vh; */
+
+}
+.portfoliqualification{
+    background-color: black;
+    /* height: 100vh; */
+
+}
+.aboutus{
+    font-family: 'Poppins', sans-serif;
+}
+
+.certificatebg{
+    background-color: rgb(36, 33, 33);
+    /* height: 100vh; */
+}
+.certificateimage{
+           width: 50%;
+           height: 30%;
+}
+
+.contactportpolio{
+    background-color: rgb(14, 13, 13);
+
+}
+
+.qualificationhover{
+            box-shadow: 0 0 20px rgb(62, 62, 161);
+            border-top-right-radius: 20px;
+            border-bottom-right-radius: 20px;
+            border-top-left-radius: 20px;
+            border-bottom-left-radius: 20px;
+            
+}
+.certificatebox{
+            box-shadow: 0 0 20px rgb(62, 62, 161);
+            border-top-right-radius: 20px;
+            border-bottom-right-radius: 20px;
+            border-top-left-radius: 20px;
+            border-bottom-left-radius: 20px;
+}
+.imgpcon{
+    width: 20%;
+    height: 20%;
+}
+.linkbox{
+            box-shadow: 0 0 20px rgb(62, 62, 161);
+           
+        }
+.portfolioskills{
+    /* background-color: rgb(14, 13, 13); */
+    background-color: rgb(63, 59, 59);
+
+}
+  .cardps{
+    background-image: linear-gradient(to right,rgb(64, 194, 187),rgb(116, 202, 191));
+  }
+  .skillimage:hover{
+    /* box-shadow: 0 0 10px rgb(62, 62, 161) ; */
+    transform: scale(0.9);
+  }
+ .viewproject{
+    background-color:  rgb(62, 62, 161);
+    outline: none;
+    border: none;
+    transform: scale(0.9);
+
+ }
+ .skilltitle{
+    font-family: 'Roboto', sans-serif;
+ }
+
+
+.NABcolor{
+    background-color: black;
+    
+}
